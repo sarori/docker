@@ -1,0 +1,3 @@
+docker run --named=roach-warden -d -p 8081:80 -v phpmyadmin
+
+이거 다시
