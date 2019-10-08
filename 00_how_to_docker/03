@@ -1,4 +1,1 @@
 eval "$(docker-machine env Char)"
-
-As noted in the output of the docker-machine create command, you need to tell Docker to talk to the new machine.
-Connect your shell to the new machine.

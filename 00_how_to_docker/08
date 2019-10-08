@@ -1,9 +1,1 @@
 docker run -it --rm alpine /bin/sh
-
-Normally, a Docker container persists after it has exited. This allows you to run the container again, inspect its filesystem, and so on. However, sometimes you want to run a container and delete it immediately after it exits. Docker provides the --rm command line option for this purpose:
-This will create a container from the "my-docker" image and delete the container immediately after it exits. This helps to prevent having to clean up containers after you're done experimenting.
-
-
-
-
-//잘 모르겠다아아아아 조오오올ㄹㅏ 귀엽다 

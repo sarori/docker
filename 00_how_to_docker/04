@@ -1,4 +1,1 @@
 docker pull hello-world
-
-//Docker Hub is the place where open Docker images are stored. 
-//he software first checked if this image is available on your computer and since it wasn’t it downloaded the image from Docker Hub. So getting an image from Docker Hub works sort of automatically.

@@ -1,3 +1,1 @@
 docker-machine create --driver virtualbox Char
-
-Run the docker-machine create command, pass the appropriate driver to the --driver flag and provide a machine name.
